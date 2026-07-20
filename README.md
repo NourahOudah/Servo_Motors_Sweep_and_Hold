@@ -34,6 +34,3 @@ Power:
 - README.md
 - Project video
 
-## Circuit Preview
-
-![circuit](images/circuit.png)
