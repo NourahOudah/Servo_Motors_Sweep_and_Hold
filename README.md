@@ -36,4 +36,4 @@ Power:
 
 ## Circuit Preview
 
-![Circuit](images/circuit.png)
+![circuit](images/circuit.png)
