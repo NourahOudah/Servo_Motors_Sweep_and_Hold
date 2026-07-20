@@ -33,3 +33,7 @@ Power:
 - Arduino code (.ino)
 - README.md
 - Project video
+
+## Circuit Preview
+
+![Circuit](images/circuit.png)
